@@ -1,2 +1,2 @@
 # Apostilas--TREINAdev-
-um aplicativo em ruby de receitas
+um aplicativo em ruby de receitas.
